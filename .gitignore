@@ -1,0 +1,11 @@
+node_modules/
+dist/
+runtime/
+.tools/
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+*.local
+*.log
